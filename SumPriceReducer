@@ -22,3 +22,5 @@ public class SumPriceReducer
         context.write(key, result);
     }
 }
+© 2021 GitHub, Inc.
+Terms
